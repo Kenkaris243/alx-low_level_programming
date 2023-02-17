@@ -3,7 +3,7 @@
  * main - Entry point
  * Description: print all single digits of base 10
  * starting from 0, followed by new line.
- * Return: Always 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
